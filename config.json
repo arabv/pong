@@ -1,0 +1,8 @@
+{
+  "DEFAULT": {
+    "BALL_SPEED": "10",
+    "AI_SPEED": "10",
+    "SCREEN_WIDTH": "80",
+    "SCREEN_HEIGHT": "80"
+  }
+}
